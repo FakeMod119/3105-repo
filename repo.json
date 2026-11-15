@@ -145,6 +145,45 @@
         "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@04fab50df4db19f1188d450dc9cd122e87982054/assets/adc2efeb0bb5e38ff7dfa2e1651bcad43d1bcd709fd03ca939c2210723aaecf3.png",
         "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@04fab50df4db19f1188d450dc9cd122e87982054/assets/389a527917ba2eeccdefd9f347e9d49d128e2219d25588bb67c5e26db36fa3cb.png"
       ]
+    },
+    {
+      "identifier": "d5a6a608-173c-489d-8cd9-e65232c941a1",
+      "kind": "patch",
+      "name": "Documents",
+      "author": "FakeMod119",
+      "version": "1.0.0",
+      "summary": "Documents",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "17.7"
+        },
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "isPrivate": false,
+      "publishedAt": "2026-11-15T14:15:46Z",
+      "tags": [],
+      "download": "https://github.com/FakeMod119/3105-repo/releases/download/packages-b6e0a02b116657df6ce2/d5a6a608-173c-489d-8cd9-e65232c941a1.3105",
+      "size": 1875268,
+      "sha256": "c9a422c2ba11d9abedf1169bad5eb651015467322411a801e7a8aabab16169d8",
+      "screenshots": []
     }
   ],
   "icon": "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@3cb2c6ebd9045e0851311161996606b5a885a5ca/assets/88355e49b90d6fd6af87f13f4c7c13e4af1d5c1800bf185a556c723f6ac0cd04.png",
