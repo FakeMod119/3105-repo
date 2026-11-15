@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "identifier": "io.github.FakeMod119.3105-repo",
+  "name": "3105-repo",
+  "packages": [
+    {
+      "identifier": "8806a84d-d2a2-4b1d-be0f-0cc07514e142",
+      "kind": "patch",
+      "name": "hzmodv8",
+      "author": "FakeMod",
+      "version": "1.0.0",
+      "summary": "hzmodv8",
+      "supportedOS": [
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        }
+      ],
+      "isPrivate": false,
+      "publishedAt": "2026-11-15T11:20:14Z",
+      "download": "https://github.com/FakeMod119/3105-repo/releases/download/packages-ba90346f2717e3d60810/8806a84d-d2a2-4b1d-be0f-0cc07514e142.3105",
+      "size": 10570225,
+      "sha256": "6a35cf4117bbf4bbeb734bea643370119aefceb027ccb98f0044eb5211d198ff"
+    }
+  ]
+}
