@@ -49,6 +49,54 @@
       ],
       "banner": "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@a79aafab2011370d48380a64df452bd1a5c39303/assets/5fd4915e2860918d1c3c2c56736a38a01652b1d6f31d943d5608a7c2557f502d.png",
       "changelog": "Test"
+    },
+    {
+      "identifier": "55b97426-381e-4d8d-8f71-b3ef47c9c8cf",
+      "kind": "patch",
+      "name": "Mod Skin NV Nam OB55",
+      "author": "FakeMod",
+      "version": "1.0.0",
+      "summary": "Mod Skin NV Nam OB55",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "17.7"
+        },
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "isPrivate": false,
+      "publishedAt": "2026-11-15T14:01:33Z",
+      "tags": [
+        "Mod Skin Free Fire Thường"
+      ],
+      "description": "Copyright by FakeMod",
+      "download": "https://github.com/FakeMod119/3105-repo/releases/download/packages-eefe841f1bbdbb39ff74/55b97426-381e-4d8d-8f71-b3ef47c9c8cf.3105",
+      "size": 2617605,
+      "sha256": "a34ff1807e64f54169d1de0c487c74ca66c1ed202c1018bc2d0d5a60f36c9da8",
+      "icon": "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@206e5406e83e18849431938aaa168a27e6418214/assets/ef0371338923b34840fdff86d95350180c6584e487f0de57d51d1f8bf0124021.png",
+      "banner": "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@fba377ab80e83410d678c73fb927d0984f3d398a/assets/389a527917ba2eeccdefd9f347e9d49d128e2219d25588bb67c5e26db36fa3cb.png",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@96d1d1e120f6fce5e082a134db7503bec09cf837/assets/98de21f9cbbf5f19bcd792e1635a9ca9ca75716ce92effcf0fbf85fb66ade768.png",
+        "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@d7a99769b70ec6b03aafbc7df426578900b6fd52/assets/adc2efeb0bb5e38ff7dfa2e1651bcad43d1bcd709fd03ca939c2210723aaecf3.png",
+        "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@d7a99769b70ec6b03aafbc7df426578900b6fd52/assets/389a527917ba2eeccdefd9f347e9d49d128e2219d25588bb67c5e26db36fa3cb.png"
+      ]
     }
   ],
   "icon": "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@3cb2c6ebd9045e0851311161996606b5a885a5ca/assets/88355e49b90d6fd6af87f13f4c7c13e4af1d5c1800bf185a556c723f6ac0cd04.png",
