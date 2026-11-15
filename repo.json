@@ -179,7 +179,9 @@
       ],
       "isPrivate": false,
       "publishedAt": "2026-11-15T14:15:46Z",
-      "tags": [],
+      "tags": [
+        "hihi"
+      ],
       "download": "https://github.com/FakeMod119/3105-repo/releases/download/packages-b6e0a02b116657df6ce2/d5a6a608-173c-489d-8cd9-e65232c941a1.3105",
       "size": 1875268,
       "sha256": "c9a422c2ba11d9abedf1169bad5eb651015467322411a801e7a8aabab16169d8",
