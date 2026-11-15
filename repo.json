@@ -145,6 +145,47 @@
         "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@04fab50df4db19f1188d450dc9cd122e87982054/assets/adc2efeb0bb5e38ff7dfa2e1651bcad43d1bcd709fd03ca939c2210723aaecf3.png",
         "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@04fab50df4db19f1188d450dc9cd122e87982054/assets/389a527917ba2eeccdefd9f347e9d49d128e2219d25588bb67c5e26db36fa3cb.png"
       ]
+    },
+    {
+      "identifier": "25ece60e-64b0-4e6d-b4b0-46a3ccd38fc1",
+      "kind": "patch",
+      "name": "com.dts.freefiremax",
+      "author": "FakeMod119",
+      "version": "1.0.0",
+      "summary": "com.dts.freefiremax",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "17.7"
+        },
+        {
+          "minimum": "18.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "isPrivate": false,
+      "publishedAt": "2026-11-15T15:21:25Z",
+      "tags": [
+        "hihi"
+      ],
+      "download": "https://github.com/FakeMod119/3105-repo/releases/download/packages-309d2d0967909e52cdb1/25ece60e-64b0-4e6d-b4b0-46a3ccd38fc1.3105",
+      "size": 1875254,
+      "sha256": "078a07656cd034994e6807cbe986bf1a140fc8081fee0a6256aa4c467075e4b0",
+      "screenshots": []
     }
   ],
   "icon": "https://cdn.jsdelivr.net/gh/FakeMod119/3105-repo@3cb2c6ebd9045e0851311161996606b5a885a5ca/assets/88355e49b90d6fd6af87f13f4c7c13e4af1d5c1800bf185a556c723f6ac0cd04.png",
